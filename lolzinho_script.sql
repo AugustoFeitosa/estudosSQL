@@ -30,4 +30,4 @@ CREATE TABLE tb_personagens (
 select * from  tb_classes;
 select * from  tb_personagens;
 
-
+***********
