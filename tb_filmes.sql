@@ -14,7 +14,8 @@ create table tb_filmes(
     insert into tb_filmes (name, genre, running_time, release_date)
     values ('Spider-Man: Into the Spider-Verse', 'animation', 117, 2018);
     
-    insert into tb_filmes (name, genre, running_time, release_date)
-    values ('The Super Mario Bros. Movie', 'animation', 92, 2023);
+    insert into tb_filmes (ratings)
+    values ();
     
     select * from tb_filmes;
+    
